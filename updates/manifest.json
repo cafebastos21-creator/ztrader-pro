@@ -1,8 +1,6 @@
 {
-  "version": "1.1.1",
-  "notes": [
-    "primeiro update online funcionando"
-  ],
-  "package_url": "",
-  "sha256": ""
+  "version": "1.1.2",
+  "notes": ["teste update"],
+  "package_url": "https://github.com/cafebastos21-creator/ztrader-pro/releases/download/v1.1.1/update.zip",
+  "sha256": "419FAF3D07D11EA90682EB73B095369C55AFAC90701DED9842897FF8DCB3C0E0"
 }
